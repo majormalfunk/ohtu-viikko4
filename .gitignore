@@ -30,3 +30,8 @@ gradle-app.setting
 /MockitoDemo/build/
 /MatkakorttiMockito/.nb-gradle/
 /MatkakorttiMockito/build/
+/VerkkokauppaSpring/.nb-gradle/
+/VerkkokauppaSpring/build/
+
+# macOS
+.DS_Store
