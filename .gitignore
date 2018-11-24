@@ -27,3 +27,6 @@ gradle-app.setting
 /WebLogin/build/
 /WebLogin/bin/
 
+/MockitoDemo/build/
+/MatkakorttiMockito/.nb-gradle/
+/MatkakorttiMockito/build/
